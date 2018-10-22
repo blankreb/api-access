@@ -1,0 +1,51 @@
+BODY {
+	background-color: #D3D3D3;
+	font: 400 24pt 'Roboto', Helvetica, sans-serif;
+}
+
+DIV {
+	background-color: #778899;
+	width:100%;
+	border: thin black solid;
+	padding:50px;
+	margin-top:20px;
+}
+
+SPAN {
+	font-size:16pt;
+	text-align:right;
+	margin:10px
+}
+
+P {
+	background-color: #708090;
+	padding:20px;
+	color:white;
+	text-shadow: 3px 2px gray;
+}
+
+P.news {
+	background-color: #D3D3D3;
+	opacity: 0.3;
+}
+
+a:link {
+    color: white; 
+    background-color: transparent; 
+    text-decoration: none;
+    text-shadow: 3px 2px gray;
+}
+
+a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+    text-shadow: 3px 2px gray;
+}
+
+a:hover {
+    color: red;
+    background-color: transparent;
+}
+
+
